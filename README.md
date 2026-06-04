@@ -1,4 +1,4 @@
-# Wearable Sensor Activity Recognition — Deep Learning (STAT41120)
+# Wearable Sensor Activity Recognition : Deep Learning (STAT41120)
 
 ## Overview
 Comparison of two deep learning architectures for 19-class daily and sports activity recognition using wearable sensor data.
@@ -20,8 +20,8 @@ Comparison of two deep learning architectures for 19-class daily and sports acti
 - Hyperparameter tuning via grid search over learning rate, batch size, and dropout
 
 ## Files
-- `activity_recognition.R` — Full pipeline: preprocessing, model building, tuning, evaluation
-- `report.docx` — Written report with architecture diagrams, comparison tables, and confusion matrix
+- `activity_recognition.R` : Full pipeline: preprocessing, model building, tuning, evaluation
+- `report.docx` : Written report with architecture diagrams, comparison tables, and confusion matrix
 
 ## Requirements
 R with `keras3`, `tensorflow`, `reticulate`
